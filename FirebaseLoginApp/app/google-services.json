@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "74399246207",
+    "firebase_url": "https://smartparking-4ec8d.firebaseio.com",
+    "project_id": "smartparking-4ec8d",
+    "storage_bucket": "smartparking-4ec8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74399246207:android:9ba54ac00ff01ae7",
+        "android_client_info": {
+          "package_name": "com.example.jisupark.firebaseloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74399246207-b906908arsqp71r025kpe6bddfn7747r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG6VBkmZmRZKt0G4mlukiIVKkz_n3z3Sw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
